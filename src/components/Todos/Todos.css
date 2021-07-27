@@ -1,0 +1,36 @@
+.todos {
+  padding: 30px;
+}
+.todos__save {
+  margin-top: 20px !important;
+}
+.todos__list {
+  margin-top: 30px;
+  max-width: 700px;
+  width: 100%;
+}
+.todos__item {
+  display: flex;
+  align-items: center;
+}
+.todos__item:not(:last-child) {
+  margin-bottom: 10px;
+}
+.todos__text {
+  font-size: 20px;
+}
+.todos__actions {
+  margin-left: auto;
+  display: flex;
+  gap: 10px;
+}
+.todos__select {
+  min-width: 100px !important;
+}
+.todos__filter {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+/*# sourceMappingURL=Todos.css.map */

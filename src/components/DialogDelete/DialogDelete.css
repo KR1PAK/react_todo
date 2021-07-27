@@ -1,0 +1,11 @@
+.dialog-delete__box {
+  padding: 20px;
+}
+.dialog-delete__actions {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+}
+
+/*# sourceMappingURL=DialogDelete.css.map */

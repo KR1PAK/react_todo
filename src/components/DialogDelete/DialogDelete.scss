@@ -1,0 +1,12 @@
+.dialog-delete {
+  &__box {
+    padding: 20px;
+  }
+
+  &__actions {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+  }
+}
